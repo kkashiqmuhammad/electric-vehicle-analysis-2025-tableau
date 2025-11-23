@@ -20,5 +20,4 @@ A Tableau dashboard analyzing 2025 EV population data from Kaggle.
 ## 📂 Files Included
 - EV_Dashboard.twbx
 - dashboard_preview.png
-- cleaned_data.csv
 ----------------------------------------------------------------------
